@@ -1,0 +1,65 @@
+<template>
+  <footer>
+    <svg
+      viewBox="0 0 2250 428"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <path
+        id="ellipse1"
+        d="M2249.5 123.5C2249.5 127.598 2247.61 131.695 2243.82 135.788C2240.04 139.883 2234.38 143.943 2226.91 147.949C2211.97 155.96 2189.92 163.704 2161.47 171.088C2104.57 185.854 2022.22 199.157 1920.44 210.331C1716.88 232.677 1435.65 246.5 1125 246.5C814.352 246.5 533.121 232.677 329.559 210.331C227.775 199.157 145.427 185.854 88.5337 171.088C60.083 163.704 38.0261 155.96 23.0924 147.949C15.625 143.943 9.96387 139.883 6.17528 135.788C2.389 131.695 0.5 127.598 0.5 123.5C0.5 119.402 2.389 115.305 6.17528 111.212C9.96387 107.117 15.625 103.057 23.0924 99.051C38.0261 91.0395 60.083 83.2964 88.5337 75.9122C145.427 61.1459 227.775 47.843 329.559 36.6693C533.121 14.3228 814.352 0.5 1125 0.5C1435.65 0.5 1716.88 14.3228 1920.44 36.6693C2022.22 47.843 2104.57 61.1459 2161.47 75.9122C2189.92 83.2964 2211.97 91.0395 2226.91 99.051C2234.38 103.057 2240.04 107.117 2243.82 111.212C2247.61 115.305 2249.5 119.402 2249.5 123.5Z"
+      />
+      <text
+        fill="#ffffff"
+        font-size="25.5"
+        font-family="Audiowide"
+        font-weight="600"
+        letter-spacing=".6rem"
+      >
+        <!-- This is the magic -->
+        <textPath startOffset="100%" xlink:href="#ellipse1">
+          Bienvenue sur mon Curriculum cosmique cher visiteur. J'espère que vous trouverez ici ce que vous cherchez. Bonne visite !
+          <animate
+            attributeName="startOffset"
+            from="100%"
+            to="0%"
+            begin="0.1s"
+            dur="56s"
+            repeatCount="indefinite"
+          />
+        </textPath>
+      </text>
+    </svg>
+  </footer>
+</template>
+
+<script>
+export default {
+  name: "Footer",
+  /* mounted: function() {
+    const ellipse1 = document.querySelector("#ellipse1");
+    console.log("Footer path" + ellipse1.getTotalLength())
+  } */
+};
+</script>
+
+<style>
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&display=swap");
+
+footer {
+  height: 10vh;
+  overflow: hidden;
+  z-index: 10;
+  perspective: 14px;
+  padding-top: 2.5rem;
+}
+footer svg {
+  width: 100vw;
+  overflow: visible;
+  transform: rotateX(-1deg);
+  will-change: auto;
+}
+footer text {
+  text-shadow: 0 0 5px #ffa500;
+}
+</style>

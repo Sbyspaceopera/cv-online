@@ -1,0 +1,17 @@
+<svg width="500" height="503" viewBox="0 0 500 503" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="linkedin">
+<path id="linkedin-logo" d="M326.262 188.353H177.553C170.433 188.353 164.659 193.953 164.659 200.856V350.356C164.659 357.259 170.433 362.851 177.553 362.851H326.262C333.382 362.851 339.157 357.252 339.157 350.356V200.856C339.157 193.953 333.382 188.353 326.262 188.353ZM191.576 334.385V255.826H217.688V334.385H191.576ZM204.639 245.104H204.471C195.704 245.104 190.041 239.07 190.041 231.529C190.041 223.821 195.879 217.955 204.814 217.955C213.742 217.955 219.244 223.821 219.412 231.529C219.405 239.07 213.742 245.104 204.639 245.104ZM311.847 334.385H285.735V292.365C285.735 281.804 281.951 274.6 272.511 274.6C265.293 274.6 260.997 279.457 259.112 284.152C258.425 285.827 258.25 288.175 258.25 290.522V334.392H232.138C232.138 334.392 232.482 263.205 232.138 255.833H258.25V266.955C261.719 261.601 267.935 253.99 281.783 253.99C298.959 253.99 311.84 265.217 311.84 289.345V334.385H311.847Z" fill="white" fill-opacity="0.8"/>
+<g id="runes-group">
+<text id="l-letter" fill="white" xml:space="preserve" style="white-space: pre" font-family="MadokaMusical" font-size="72" letter-spacing="0em"><tspan x="28.6215" y="191.547">L</tspan></text>
+<text id="i-letter" fill="white" xml:space="preserve" style="white-space: pre" font-family="MadokaMusical" font-size="72" letter-spacing="0em"><tspan x="6" y="296.32">i</tspan></text>
+<text id="n-letter" fill="white" xml:space="preserve" style="white-space: pre" font-family="MadokaMusical" font-size="72" letter-spacing="0em"><tspan x="20.8826" y="421.929">n</tspan></text>
+</g>
+<g id="circle-group">
+<circle id="circle" cx="252.507" cy="274.385" r="151.714" stroke="white" stroke-width="20"/>
+<path id="vector-1" d="M249.207 130.792C294.753 131.3 327.851 147.018 348.028 165.124C375.141 189.454 395.301 232.901 396.812 282.002" stroke="white" stroke-width="20"/>
+<path id="vector-2" d="M245.796 115.867V162.847" stroke="white" stroke-width="20"/>
+<path id="vector-3" d="M275.198 12L267.528 119.383L318.663 136.002M318.663 136.002L336.56 95.0939M318.663 136.002L359.571 175.631M359.571 175.631L445.221 119.383M359.571 175.631L385.138 225.487M385.138 225.487L436.273 202.477M385.138 225.487L396.643 261.282H495.077" stroke="white" stroke-width="15"/>
+<path id="vector-4" d="M86 294.519C89.5501 330.346 110.289 372.5 142.248 399.345C174.207 426.191 207.947 440.06 245.796 440.253" stroke="white" stroke-width="20"/>
+</g>
+</g>
+</svg>
