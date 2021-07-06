@@ -46,7 +46,7 @@ export default {
     return {
       skills: [
         { name: "JavaScript", image: javascript },
-        { name: "ReactJs", image: reactJs },
+        { name: "React", image: reactJs },
         { name: "VueJs", image: vueJs },
         { name: "CSS3", image: css3 },
         { name: "HTML5", image: html5 },

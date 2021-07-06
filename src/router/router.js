@@ -32,15 +32,15 @@ const routes = [
     },
   },
   {
-    path: "/ReactJs",
-    name: "ReactJs",
+    path: "/React",
+    name: "React",
     component: SkillComponent,
     props: {
       skill: {
-        name: "ReactJs",
-        description: `<p>ReactJs est le framework sur lequel j'ai le plus de compétences. D'abord appris en formation, j'ai très vite accroché et ai consolider mon expertise sur Udemy. Redux, les cycles de vie, les props, les states, le contexte et les hooks, voilà des concepts avec lesquels je suis à l'aise. Je pense avoir atteint une assez bonne compréhension du fonctionnement de cette librairie, bien que certaines méthodes, très peu utilisées, me soient encore inconnues.</p>
+        name: "React",
+        description: `<p>React est le framework sur lequel j'ai le plus de compétences. D'abord appris en formation, j'ai très vite accroché et ai consolider mon expertise sur Udemy. Redux, les cycles de vie, les props, les states, le contexte et les hooks, voilà des concepts avec lesquels je suis à l'aise. Je pense avoir atteint une assez bonne compréhension du fonctionnement de cette librairie, bien que certaines méthodes, très peu utilisées, me soient encore inconnues.</p>
     <p>Durant mon dernier projet en ReactJs j'ai eu l'occasion également d'apprendre Material UI. Ce fut ma seconde expérience avec un framework CSS, cette fois-ci penser pour ReactJs, et j'avoue avoir été assez déçu bien que cela ne me dérange pas de travailler avec cet outil.</p>
-    <p>Concernant React Native, une formation m'attend sur Udemy que j'ai hâte d'avoir le temps d'entreprendre. J'ai déjà un peu chipoter avec, en utilisant notamment Expo, et bien que cela reste du React il me reste encore bien des fonctionnalités natives des mobiles à explorer.</p>
+    <p>Concernant React Native, je suis en train de me former à son sujet sur Udemy et mes aisances avec RectJs me facilite la tache. Sur la fin de mon apprentissage, mon projet projet utilisera React Native afin d'ancrer comme il faut ses particularités et se mise en production.</p>
     <p>Vous pourrez trouver mon dernier projet ReactJs, Dùrastats, sur ma page Linkedin, en haut à droite de l'écran. Celui-ci n'est pas aussi excentrique visuellement que ce site mais se devait de respecter la charte du forum pour lequel il a traité. Ce fut surtout un défit logique quant à l'implémentation des statistiques et conditions d'un RPG.</p>`,
       },
       level: 85,
@@ -57,7 +57,7 @@ const routes = [
     <p>La formation Udemy que j'ai suivit concernant ce framework n'était pas très poussé, environ 7 heures, mais m'a permit d'être rapidement autonome sans parler de la facilité d'utilisation de VueJs. Celle-ci était basée sur Vue2 mais j'ai pris à coeur d'utiliser Vue3 pour mon projet et ma formation afin d'être à jour sur les nouveautés.</p>
     <p>Travailler avec VueJs ne me pose donc aucun problème, je suis même curieux d'aller plus loin avec ce framework. Curieux également de voir ce que leur version mobile native donnera à l'avenir.</p>`,
       },
-      level: 70,
+      level: 65,
     },
   },
   {
@@ -109,7 +109,7 @@ const routes = [
         description: `<p>J'ai suivi une formation Git sur Udemy, voyant bien que cet outil est indispensable tant pour gérer son code que pour travailler en équipe.</p>
     <p>Je me débrouille avec les concepts de base et le système de branchs. Commit, merge, stashes, pull, push, SHA-1, readme.txt, .gitignore... Mais serait sans doute la mauvaise personne pour gérer l'entiéreté du Git d'un projet de part mon manque d'expérience.</p>`,
       },
-      level: 60,
+      level: 65,
     },
   },
   {
@@ -135,7 +135,7 @@ const routes = [
         description: `<p>La configuration de Babel m'est connu malgré un manque de pratique dut au fait qu'on ne s'en occupe qu'une fois par projet. Je différencie bien la différence entre le babel.config.json et le .babelrc.json. Malgré cela, je suis loin de connaître sur le bout des doigts chaque ligne de configuration et possibilités qu'offre cet outil.</p>
     <p>L'utilisation de Babel me semble aujourd'hui indispensable afin de profiter pleinement des nouvelles possibilités qu'offre le JavaScript.</p>`,
       },
-      level: 50,
+      level: 40,
     },
   },
   {
@@ -173,9 +173,9 @@ const routes = [
       skill: {
         name: "Jest",
         description: `<p>J'ai suivi quelques court vis-à-vis du testing, notamment sur les test unitaires et d'intégrations en utilisant Jest et Enzyme.</p>
-    <p>Sans avoir une grande expérience en la matière, je me sens capable de gérer des tests et suis prêt à aller plus loin en ce sens, même si je dois bien avouer que le sujet n'est pas des plus attractifs.</p>`,
+    <p>Sans avoir une grande expérience en la matière, je me sens capable de rédiger des tests unitaires et suis prêt à aller plus loin en ce sens, même si je dois bien avouer que le sujet n'est pas des plus attractifs.</p>`,
       },
-      level: 59,
+      level: 50,
     },
   },
   {
