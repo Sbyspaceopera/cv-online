@@ -23,7 +23,7 @@ const routes = [
       skill: {
         name: "JavaScript",
         description: `<p>Le langage que je maîtrise le plus et qui m'est le plus utile. Voilà deux ans que j'ai commencé avec celui-ci et j'arrive désormais à me débrouiller avec la plupart du code auquel je dois me confronter.</p>
-    <p>Je suis à jour sur ce langage et prêt à l'emploi, y compris en TypeScript. Mes seules faiblesses seraient le CommonJs, utiliser notamment dans NodeJs, et le RxJs, sur lesquels je n'ai pas encore pris le temps de me pencher sérieusement.</p>
+    <p>Je suis à jour sur ce langage et prêt à l'emploi, y compris en TypeScript. Mes seules faiblesses seraient le CommonJs, utiliser notamment dans NodeJs, et le RxJs sur lesquels je n'ai pas encore pris le temps de me pencher sérieusement.</p>
     <p>J'ai également eut une première exérience avec Socket.io durant laquelle j'ai put me familiarisé avec les sockets. Outre cela, je me sens largement dans la capacité d'attaquer n'importe quel projet écrit en JavaScript.</p>
     <p>Particulièrement friands des conceptes transplateformes et des nouvelles possibilités que ce langage offre. Je tends à évoluer dans l'avenir vers des outils tel React Native, Electron ainsi que Three.Js et tout ce qui peut toucher à l'animation et au rendu 3D.</p>
     <p>Au niveau du code pur, j'essaye de rester dans le clean code autant que possible mais les deadlines me semblent prioritaires sur ces concepts.</p>`,
@@ -120,7 +120,7 @@ const routes = [
       skill: {
         name: "NPM",
         description: `<p>NPM est l'outil de base avec lequel je travaille actuellement. Je l'utilisait avant sans trop le maitriser mais me suis former quant à sa configuration et ses lignes de commande.</p>
-    <p>Ainsi, l'installation de dépendances et le contrôle de leur version me sont aisés.</p>`,
+    <p>Ainsi, l'installation de dépendances et le contrôle de leur version me sont aisés bien que j'ai encore à apprendre sur le sujet.</p>`,
       },
       level: 65,
     },
@@ -296,7 +296,7 @@ const routes = [
         name: "Cinéma",
         description: `<p>J'aime beaucoup regarder des films et des séries, bien que le temps me manque souvent.</p>
         <p>La science-fiction et la fantasy sont ce que je préfère dans le domaine. Je suis d'ailleurs assez fan des différentes séries Star Trek. Tous les genres me vont cependant, bien que je ne sois pas grand fan du cinéma français.</p>
-        <p>Quelques exemples de séries : The Good Place, Dirk Gently, West World, Cloud Atlas, Altered Carbon, Man Seekin Woman,...</p>`,
+        <p>Quelques exemples de séries : The Good Place, Dirk Gently, West World, Altered Carbon, Man Seeking Woman,...</p>`,
         icon: "local_movies_48px.svg",
       },
     },
